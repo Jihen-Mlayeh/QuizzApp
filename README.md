@@ -1,30 +1,5 @@
 # 🎯 Quiz France - Application Flutter
 
-Application de quiz interactive sur la France avec gestion d'état avancée (Provider & BLoC).
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-## 📋 Table des Matières
-
-- [Aperçu](#aperçu)
-- [Fonctionnalités](#fonctionnalités)
-- [Prérequis](#prérequis)
-- [Installation](#installation)
-- [Structure du Projet](#structure-du-projet)
-- [Configuration](#configuration)
-- [Utilisation](#utilisation)
-- [Architecture](#architecture)
-- [Patterns Utilisés](#patterns-utilisés)
-- [Dépendances](#dépendances)
-- [Captures d'Écran](#captures-décran)
-- [Tests](#tests)
-- [Déploiement](#déploiement)
-- [Contribution](#contribution)
-- [Licence](#licence)
-
----
-
 ## 🎯 Aperçu
 
 Quiz France est une application mobile développée en Flutter permettant de tester ses connaissances sur la France à travers 15 questions de type Vrai/Faux. L'application propose **deux modes de gestion d'état** : Provider et BLoC.
@@ -265,4 +240,5 @@ Menu Principal
 | `flutter_lints` | ^3.0.1 | Linter Dart |
 
 ---
+
 
